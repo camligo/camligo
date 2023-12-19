@@ -6,7 +6,7 @@ I'm a Junior Full Stack Developer from Sweden, soon about to move to Sydney, Aus
 
 #### My bootcamp projects:
 
-- <a href="https://github.com/serena-mellor/recloset">**ReCloset**</a>: a website inspired by Vinted
+- <a href="https://github.com/serena-mellor/recloset">**ReCloset**</a>: a website for second-hand clothing, inspired by Vinted
 - <a href="https://github.com/serena-mellor/swapt">**Swapt**</a>: a mobile-first virtual wardrobe app where users can create outfits and swap clothing items
 
 #### Languages and tools that I use:
