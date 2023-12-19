@@ -1,6 +1,6 @@
 ### Hi, I'm Camilla :woman_technologist:
 
-I'm a Junior Full Stack Developer from Sweden, soon about to move to Sydney, Australia :kangaroo:
+I'm a Junior Full Stack Developer from Sweden soon about to move to Sydney, Australia :kangaroo:
 
 💡 Currently, I’m working on improving my skills in Ruby on Rails and JavaScript.
 
