@@ -1,6 +1,6 @@
 ### Hi, I'm Camilla :woman_technologist:
 
-I'm a Junior Full Stack Developer from Sweden soon about to move to Sydney, Australia :kangaroo:
+I'm a Junior Full Stack Developer from Sweden sbased in Sydney, Australia :kangaroo:
 
 💡 Currently, I’m working on improving my skills in Ruby on Rails and JavaScript.
 
@@ -11,19 +11,6 @@ I'm a Junior Full Stack Developer from Sweden soon about to move to Sydney, Aust
 
 #### Languages and tools that I use:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,bootstrap,git,heroku,figma)](https://skillicons.dev)
-
-
-#### More about me:
-```javascript
-const camillaLigovic = {
-  availableForHire: true,
-  education: "Le Wagon Barcelona, a 9-week full-time intensive web dev bootcamp",
-  otherAlias: "Junior Full Stack Developer",
-  codesIn: ["HTML", "CSS", "Ruby"],
-  currentlylearning: ["Ruby on Rails", "JavaScript", "CSS"],
-  toolsUsed: ["VS Code", "Bootstrap", "Figma", "GitHub", "Heroku"],
-}
-```
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/camilla-ligovic/">
