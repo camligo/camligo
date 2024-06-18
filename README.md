@@ -2,7 +2,7 @@
 
 I'm a Junior Full Stack Developer from Sweden based in Sydney, Australia :kangaroo:
 
-💡 Currently, I’m working on improving my skills in Ruby on Rails and JavaScript.
+💡 Currently, I’m working on improving my skills in JavaScript.
 
 #### My bootcamp projects:
 
