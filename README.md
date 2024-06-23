@@ -1,6 +1,6 @@
 ### Hi, I'm Camilla :woman_technologist:
 
-I'm a Junior Full Stack Developer from Sweden based in Sydney, Australia :kangaroo:
+I'm a web developer trainee from Sweden based in Sydney, Australia :kangaroo:
 
 💡 Currently, I’m working on improving my skills in JavaScript.
 
